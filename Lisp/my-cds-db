@@ -1,0 +1,2 @@
+
+((:|TITLE| "" :|ARTIST| "" :|RATING| 0. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "Love" :|ARTIST| "Timberlake" :|RATING| 10. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "adsfj" :|ARTIST| "dasiof" :|RATING| 23. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "ahsdfio" :|ARTIST| "ajsd" :|RATING| 3. :|RIPPED| |COMMON-LISP|::|T|)) 
